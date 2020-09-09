@@ -51,3 +51,21 @@
     color: black;
 }
 
+  .dogsp1 {
+    background-color: white;
+    color: tomato;
+    font-size: medium;
+  }
+
+  .dogsp2 {
+    background-color: white;
+    color: blue;
+    font-size: medium;
+}
+
+  .dogsp3 {
+    background-color: white;
+    color: rgb(255, 0, 221);
+    scrollbar-highlight-color: cornflowerblue;
+    font-size: medium;
+  }
