@@ -20,8 +20,8 @@
   .topnav a.active {
     background-color: #4CAF50;
     color: white;
-
   }
+
   .homep1 {
     background-color: white;
     color: tomato;
@@ -29,5 +29,5 @@
 
   .homep2 {
     background-color: white;
-    color: green;
+    color: blue;
 }
