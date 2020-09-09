@@ -69,3 +69,28 @@
     scrollbar-highlight-color: cornflowerblue;
     font-size: medium;
   }
+
+  .catsp1 {
+    background-color: white;
+    color: tomato;
+    font-size: medium;
+  }
+
+  .catsp2 {
+    background-color: white;
+    color: blue;
+    font-size: medium;
+}
+
+  .catsp3 {
+    background-color: white;
+    color: rgb(255, 0, 221);
+    scrollbar-highlight-color: cornflowerblue;
+    font-size: medium;
+  }
+
+  @media only screen and (max-width: 600px) {
+    body {
+      background-color: lightblue;
+    }
+  }
