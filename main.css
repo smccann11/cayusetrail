@@ -41,5 +41,10 @@
   .span1 {
     background-color: white;
     color: red;
-    scrollbar-highlight-color: cornflowerblue;
 }
+
+  .list {
+    background-color: yellow;
+    color: black;
+}
+
