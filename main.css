@@ -1,10 +1,10 @@
 .topnav {
-    background-color: #333;
+    background-color:white;
     overflow: hidden;
   }
   
 
-  .topnav a {
+  .topnav {
     float: left;
     color: #f2f2f2;
     text-align: center;
@@ -25,6 +25,6 @@
     color: white;
   }
   .homep1 {
-    background-color: #ddd;
+    background-color: white;
     color: tomato;
   }
