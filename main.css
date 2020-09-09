@@ -31,3 +31,9 @@
     background-color: white;
     color: blue;
 }
+
+.homep3 {
+    background-color: white;
+    color: rgb(255, 0, 221);
+    scrollbar-highlight-color: cornflowerblue;
+}
