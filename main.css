@@ -32,8 +32,14 @@
     color: blue;
 }
 
-.homep3 {
+  .homep3 {
     background-color: white;
     color: rgb(255, 0, 221);
+    scrollbar-highlight-color: cornflowerblue;
+}
+
+  .span1 {
+    background-color: white;
+    color: red;
     scrollbar-highlight-color: cornflowerblue;
 }
